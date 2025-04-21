@@ -39,4 +39,11 @@ function Lista(){
     )
 }
 
+<ul>
+    <li>Elemento Lista</li>
+    <li>Elemento Lista</li>
+    <li>Elemento Lista</li>
+    <li>Elemento Lista</li>
+</ul>
+
 <input type="text" placeholder="Prueba" />
